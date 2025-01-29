@@ -16,21 +16,21 @@ A **Tecnomedi** oferece uma vasta seleção de produtos em diversas categorias, 
 - **Pagamento facilitado**: Oferecemos diversas opções de pagamento para facilitar sua compra.
 
 ## Como Comprar
-1. **Visite nossa loja online**: [www.tecnomedi.com](https://www.tecnomedi.com)
+1. **Visite nossa loja online**: [www.tecnomedi.com.br](https://www.tecnomedi.com.br)
 2. **Escolha seus produtos**: Navegue pelas categorias e selecione os produtos desejados.
 3. **Finalizar compra**: Adicione os produtos ao carrinho e finalize a compra com as opções de pagamento disponíveis.
 
 ## Contato
 Se tiver alguma dúvida ou precisar de ajuda, entre em contato conosco:
 
-- **E-mail**: contato@tecnomedi.com
-- **Telefone**: (XX) XXXX-XXXX
-- **Endereço**: Rua Exemplo, 123, Volta Redonda, RJ
+- **E-mail**: sac@tecnomedi.com
+- **Telefone**: (24) 33464777
+- **Endereço**: rua crispim de assis, 95, Volta Redonda, RJ
 
 Siga-nos nas redes sociais para ficar por dentro de novidades e promoções:
 
 - [Facebook](https://facebook.com/tecnomedi)
-- [Instagram](https://instagram.com/tecnomedi)
+- [Instagram](https://instagram.com/tecnomedi_)
 - [Twitter](https://twitter.com/tecnomedi)
 
 ## Contribua
